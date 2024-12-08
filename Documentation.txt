@@ -1,0 +1,11 @@
+1] Purpose: Beyond catastrophe analysis, Black Boxes (EDRs or ADRs) in automobiles record events to proactively 
+detect issues (e.g., engine faults) and monitor fleet activities (e.g., over-speeding), aiding in proactive maintenance.
+
+2] Modern Usage: Given today's busy lifestyle, a Black Box logs critical car activities and takes actions against 
+rash driving, helping to track vehicle usage and control efficiency.
+
+3] Proposed Solution: Log events like gear shifts, current speed, engine temperature, fuel consumption, trip distance, etc.
+Provide password-based access for transport managers to view or download logs.
+Extend to IoT by exporting data to a cloud-based server for centralized monitoring.
+
+4] Goal: Implement a Black Box using a PIC microcontroller and simulate events by interfacing with sensors.
